@@ -1,0 +1,29 @@
+{
+  "name": "my-nodeapi-guidelines",
+  "version": "1.0.0",
+  "description": "Best practices and guidelines for node apis using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielancines/my-nodeapi-guidelines.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "guidelines",
+    "best",
+    "practices",
+    "winston",
+    "tests"
+  ],
+  "author": "Daniel Ancines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielancines/my-nodeapi-guidelines/issues"
+  },
+  "homepage": "https://github.com/danielancines/my-nodeapi-guidelines#readme"
+}
